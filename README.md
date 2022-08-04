@@ -1,5 +1,5 @@
 [![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)](https://github.com/samyakmohelay)
-<h1 align="center">Hi 👋, I'm Samyak Mohelay</h1>
+<h1 align="center">Hi there <img src="https://github.com/samyakmohelay/samyakmohelay/blob/main/hi.gif" width="28px" height="28px" alt="waving hand" />, I'm Samyak</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samyakmohelay/">
