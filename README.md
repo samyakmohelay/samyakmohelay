@@ -11,7 +11,7 @@
  
  
 <h3 align="center">A Proficient Software Developer with a flair for creating elegant solutions in the least amount of time. Passionate about ML/Data Science. I also like to explore new trends and try on new technologies.</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/samyakmohelay/samyakmohelay/blob/main/code.gif">
+<img align="right" alt="Coding" width="380" src="https://github.com/samyakmohelay/samyakmohelay/blob/main/code.gif">
 
 
 
