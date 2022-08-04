@@ -19,7 +19,7 @@
 
 - 🌱 I’m on track for learning **more about AI and Cloud Computing Tools.**
 
-- 📝 I regularly write articles on [https://medium.com/@samyakmohelay](https://medium.com/@samyakmohelay)
+- 📝 I also write articles on [Medium](https://medium.com/@samyakmohelay)
 
 - 💬 Ask me about **Data Science/Machine Learning**
 
