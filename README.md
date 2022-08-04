@@ -29,6 +29,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+![Samyak Mohelay's blog](https://github-read-medium.vercel.app/latest?username=samyakmohelay&limit=6&theme=nord)
 <!-- BLOG-POST-LIST:END -->
 
 
