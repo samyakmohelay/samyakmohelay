@@ -13,7 +13,7 @@
 <h3 align="center">A Proficient Software Developer with a flair for creating elegant solutions in the least amount of time. Passionate about ML/Data Science. I also like to explore new trends and try on new technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/samyakmohelay/samyakmohelay/blob/main/code.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samyakmohelay&label=Profile%20views&color=0e75b6&style=flat" alt="samyakmohelay" /> </p>
+
 
 - 🔭 I’m currently working on **a few ML Projects.**
 
@@ -26,6 +26,8 @@
 - 📫 How to reach me **samyakmohelay@gmail.com**
 
 - ⚡ Fun fact: **I am debugging like a detective in a crime movie where, I am also the murderer.**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samyakmohelay&label=Profile%20views&color=0e75b6&style=flat" alt="samyakmohelay" /> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
