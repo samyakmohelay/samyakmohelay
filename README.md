@@ -1,4 +1,6 @@
+<!---
 [![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)](https://github.com/samyakmohelay)
+-->
 <h1 align="center">Hi there <img src="https://github.com/samyakmohelay/samyakmohelay/blob/main/hi.gif" width="28px" height="28px" alt="waving hand" />, I'm Samyak</h1>
 
 <p align="center">
@@ -47,7 +49,7 @@
 
 
 
-
+<!---
 ## Current Stats
 
 |   ![Samyak's github activity graph](https://activity-graph.herokuapp.com/graph?username=samyakmohelay&theme=rogue) |
@@ -55,3 +57,4 @@
 
 | ![Samyak's GitHub stats](https://github-readme-stats.vercel.app/api?username=samyakmohelay&show_icons=true&theme=city_lights) | ![Samyak's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samyakmohelay&theme=city-lights) |
 | :---: | :---: |
+-->
