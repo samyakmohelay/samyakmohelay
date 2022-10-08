@@ -31,11 +31,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samyakmohelay&label=Profile%20views&color=0e75b6&style=flat" alt="samyakmohelay" /> </p>
 
-## Blogs posts
-<!-- BLOG-POST-LIST:START -->
-![Samyak Mohelay's blog](https://github-read-medium.vercel.app/latest?username=samyakmohelay&limit=6&theme=nord)
-<!-- BLOG-POST-LIST:END -->
-
 
 ## Tech Stack
 
@@ -47,7 +42,10 @@
 | **Tools and Platforms** | **Others**|
 | ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) | ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) |
 
-
+## Blogs posts
+<!-- BLOG-POST-LIST:START -->
+![Samyak Mohelay's blog](https://github-read-medium.vercel.app/latest?username=samyakmohelay&limit=6&theme=nord)
+<!-- BLOG-POST-LIST:END -->
 
 <!---
 ## Current Stats
